@@ -1,0 +1,21 @@
+
+
+Version:	3.50
+CmdLine:	C:\pleiades\2023-09\workspace\SideScrollingGame\SideScrollingGame.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\pleiades\2023-09\workspace\SideScrollingGame\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\pleiades\2023-09\java\17
+Substitute:	PATH = C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\pleiades\2023-09\java\17\bin;C:\Users\seigo\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\seigo\AppData\Local\Programs\Python\Python312\;C:\Users\seigo\AppData\Local\Programs\Python\Launcher\;C:\Users\seigo\AppData\Local\Microsoft\WindowsApps;C:\Users\seigo\.dotnet\tools;C:\Users\seigo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\seigo\AppData\Local\GitHubDesktop\bin;C:\pleiades\2023-09\java\17\bin
+JRE paths:	C:\pleiades\2023-09\java\17;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\pleiades\2023-09\java\17\bin;C:\Users\seigo\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\seigo\AppData\Local\Programs\Python\Python312\;C:\Users\seigo\AppData\Local\Programs\Python\Launcher\;C:\Users\seigo\AppData\Local\Microsoft\WindowsApps;C:\Users\seigo\.dotnet\tools;C:\Users\seigo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\seigo\AppData\Local\GitHubDesktop\bin;C:\pleiades\2023-09\java\17\bin
+Check launcher:	C:\pleiades\2023-09\java\17\bin\javaw.exe (OK)
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.017.000_008 / 64-Bit (OK)
+Launcher:	C:\pleiades\2023-09\java\17\bin\javaw.exe
+Launcher args:	-jar "C:\pleiades\2023-09\workspace\SideScrollingGame\SideScrollingGame.exe"
+Args length:	76/32768 chars
+Exit code:	0
